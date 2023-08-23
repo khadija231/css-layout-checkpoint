@@ -32,7 +32,7 @@ header{
     line-height: 30px;
 
 }
-.menu-item:hover.dropmenu-item{
+.menu-item:hover .dropmenu-item{
     display: flex;
     flex-direction: column;
 }
